@@ -463,6 +463,14 @@ export const appConfig: ApplicationConfig = {
 - [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
 - [Domain-Driven Design](https://martinfowler.com/tags/domain%20driven%20design.html)
 
+## 👤 À propos de l'auteur
+
+Ce projet a été créé par **Grégory Dernaucourt**, développeur freelance spécialisé en Angular et architectures logicielles modernes.
+
+[![Malt Profile](https://img.shields.io/badge/Malt-Voir%20mon%20profil-FF6B35?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/gregorydernaucourt)
+
+**Vous recherchez un expert Angular pour votre projet ?** Contactez-moi via [mon profil Malt](https://www.malt.fr/profile/gregorydernaucourt)
+
 ## 📝 Licence
 
 Ce projet est un exemple éducatif libre d'utilisation.
